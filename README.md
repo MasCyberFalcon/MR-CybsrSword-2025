@@ -1,47 +1,40 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MasCyberFalcon/MR-CybsrSword-2025/main/assets/logo.png" width="200px" alt="MR CyberSword Logo"/>
-</p>
 
-<h1 align="center">MR CyberSword 2025</h1>
-<p align="center"><b>Islamic Ethical Hacking Toolkit | Bengali + English | Termux + Ubuntu PRoot</b></p>
-<p align="center"><i>MasCyberFalcon Special Edition</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Termux-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Language-Bengali%20%26%20English-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/MasCyberFalcon/MR-CybsrSword-2025?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/MasCyberFalcon/MR-CybsrSword-2025?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/MasCyberFalcon/MR-CybsrSword-2025?style=flat-square" />
-  <img src="https://img.shields.io/github/license/MasCyberFalcon/MR-CybsrSword-2025?style=flat-square" />
+  <img src="logo.png" alt="MR CyberSword Logo" width="280">
 </p>
+
+# MR CyberSword | Islamic Ethical Hacking Toolkit  
+**Language:** Bengali + English  
+**Platform:** Termux + Ubuntu PRoot  
+**Special Edition:** MasCyberFalcon (MR)
 
 ---
 
-### ✅ Features
-
-- Bilingual UI: Bangla & English (Switch with `.lang_profile`)
+## ✅ Features
+- Bilingual UI (বাংলা / English switchable)
 - Green Hacker Terminal Theme
-- Auto Python Module Installer
+- Auto Python Module Installer (Smart + Binary fallback)
 - Custom SMS Bomber (with custom message)
-- Anonymous Call Bomber
-- Facebook Auto Report (Fire Mode)
-- TikTok 18+ Content Auto Reporter
-- Number Info OSINT Tool
-- Islamic Anon Warning Tool
-- Virus Creator & Controller
-- Facebook Session Hijacker & Recovery
-- Exploit Intelligence Sync + Auto Updater
-- Version Control + Telegram Notification Support
-- Fully Automatic | Vivo Y12 & Low-End Device Friendly
+- Anonymous Call Bomber (No trace-back)
+- Facebook Auto Report Tool (Fire Mode - 20x Power)
+- TikTok 18+ Content Auto Reporter (Islamic Filter)
+- Number Info OSINT Tool (FB, Gmail, WhatsApp linked check)
+- Islamic Anon Warning Tool (For Dawah with Fear of Allah)
+- Virus Creator & Controller (Auto builder)
+- Facebook Session Hijacker & Recovery Assistant
+- Advanced Phishing AI Bypass + Botnet Support
+- Exploit Intelligence Sync + Auto Updater (Daily)
+- Version Control + Telegram Notification
+- Fully Automatic Setup
+- Optimized for Vivo Y12 & Low-End Devices
 
 ---
 
-### ⚙️ Installation
-
+## ⚙️ Installation
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/MasCyberFalcon/MR-CybsrSword-2025
-cd MR-CybsrSword-2025
+git clone https://github.com/MasCyberFalcon/MR-CybsrSword
+cd MR-CybsrSword
 bash install.sh
-
